@@ -2,7 +2,7 @@
 // See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
 // :hp-image: /covers/cover.png
 :published_at: 2017-09-14
-:hp-tags: CAL, Mercer, Info_Session,
+:hp-tags: CAL, Mercer, Info_Session, Actuary
 :hp-alt-title: Health and Benefits
 
 Today I attended a CAL informational presentation from https://www.mercer.com/[Mercer] from their San Francisco practice, which has about 100 people in their Health & Benefits team, and about 30 people on the Wealth management team. Presenters included Tim Oakes, Wendy Tan, and Alexa Garzelli on the Health & Benefits side, and Deidre Schelin and Marc Corbeil on the Wealth side. As it stands, Mercer's strength is staying on top of the H&B current trends and policy to stay at the top as an analytical professional services group in the field.
