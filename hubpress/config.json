@@ -56,12 +56,12 @@
   },
   "navigation": [
     {
-      "label": "test1 ",
-      "url": "http://google.com"
+      "label": "RESUME",
+      "url": "https://resume.dsury.com"
     },
     {
-      "label": "test2",
-      "url": "http://yahoo.com"
+      "label": "PROJECTS",
+      "url": "https://projects.dsury.com"
     }
   ]
 }
