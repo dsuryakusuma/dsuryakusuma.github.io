@@ -1,0 +1,19 @@
+= Passed FM
+// info
+// :hp-image: /covers/cover.png
+:published_at: 2017-10-13
+:hp-tags: Exams, FM/2, Actuary
+:hp-alt-title: Passed FM
+
+
+Just passed FM! I’ve been so busy lately with a great mix of things, but it’s a huge relief to pass my second exam.
+
+I posted a thank you note to http://www.reddit.com/r/actuary/[Reddit] to show my gratitude towards the community that helped helped me get started. https://www.reddit.com/r/actuary/comments/763g62/the_ractuary_effect/[For detailed information, find emotional post here].
+
+At this point I know I'll work to make this website informational and educational to help fellow aspiring actuaries grow.
+
+I’ll revisit my notes on P/1 and FM/2 to make study notes to supplement M Finan’s texts (which are fantastic resources to learn the material).
+
+The first two preliminary exams P and FM can easily and effectively be studied for completely free of cost, using M Finan’s texts and other free open source guides just as long as people keep to the test syllabus and learning objectives. 
+
+To people who are contemplating an actuarial route, I do suggest that they dive into the test material and possess the willingness to commit to test preparation.
