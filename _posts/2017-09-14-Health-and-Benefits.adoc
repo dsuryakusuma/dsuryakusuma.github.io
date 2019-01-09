@@ -1,0 +1,27 @@
+= A First Look: Health & Benefits
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+:published_at: 2017-09-14
+:hp-tags: CAL, Mercer, Info_Session,
+:hp-alt-title: Health and Benefits
+
+Today I attended a CAL informational presentation from https://www.mercer.com/[Mercer] from their San Francisco practice, which has about 100 people in their Health & Benefits team, and about 30 people on the Wealth management team. Presenters included Tim Oakes, Wendy Tan, and Alexa Garzelli on the Health & Benefits side, and Deidre Schelin and Marc Corbeil on the Wealth side. As it stands, Mercer's strength is staying on top of the H&B current trends and policy to stay at the top as an analytical professional services group in the field.
+
+Mercer is one of 4 branches under the Marsh & McLennan Companies, a parent professional services company offering services in risk management, insurance  brokerage, reinsurance services, management consulting, and investment consulting.
+
+After the event, I had the opportunity to hand in my resume and speak closely with Wendy Tan, a CAL alum. We spoke about ASA and FSA exams, student life, recruitment at Mercer, Mercer's study program and bonuses, and the interview process for internships both at Mercer and in general. A key item she mentioned is it can only help in interviews to understand more of the underlying policies and specifics behind H&B insurance, for example, concepts like excise tax and stop loss for H&B. 
+
+I asked her about the projects she works on, specifically the types of data she is handed and what analytical processing she performs on it, and what she ships out to other people after she's completed her task. Wendy spoke a bit to this and also provided insight into the monthly and quarterly reports she prepares for, as well as the large deadlines she must meet--namely the 1/1 new year day.
+
+I’m getting to learn more about Health & Benefits, as well as Wealth in terms of roles of an actuary. As I currently understand H&B, from the presentation, it involves the following:
+
+1. Benefit Strategy and Design
+2. Benefit Plan Management & Brokerage
+3. Specialty Health & Benefits
+4. International Consulting
+5. Individual & Voluntary Benefits
+6. Benefits Administration
+
+Tim Oakes highlighted H&B under the above categories, adding to it that Benefit Strategy and Design is his favorite due to the active role actuaries play in the overall strategy and influence on design.
+
+I'm still exploring the different areas of actuarial science, specifically between pursuing an FSA versus FCAS. However, attending this informational session with Mercer has opened my eyes to the neat work actuaries perform in the H&B sector. On top of that, all the employees really make Mercer out to be a great place to work at in terms of overall happiness and teamwork and coordination across teams. I'm extremely glad I was able to get a better understanding of the technical details behind actuarial work for analysts and actuarial associates in H&B. Looking forward to seeing them again at the CAL Actuarial Career Fair!
