@@ -2,7 +2,7 @@
 // See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
 // :hp-image: /covers/cover.png
 :published_at: 2017-09-24
-:hp-tags: FM/2, Actuary
+:hp-tags: Exams, FM/2, Actuary
 :hp-alt-title: Determinants of Interest Rates
 
 This second installment of study notes for exam FM/2 covers determinants of interest rates. The objective like the first installment covering http://daniel.financial/2017/09/22/Interest-Rate-Swaps.html[interest rate swaps] is to provide students studying for the FM exam with the key points and take-aways from the topic at hand. Determinants of Interest Rates is tested on the new syllabus for exam FM/2 with a weight of 0~10% according to the learning objectives syllabus.
