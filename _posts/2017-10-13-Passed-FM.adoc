@@ -1,6 +1,6 @@
 = Passed FM
 // info
-// :hp-image: /covers/cover.png
+:hp-image: https://raw.githubusercontent.com/dsuryakusuma/dsuryakusuma.github.io/gh-pages/images/FM.jpg
 :published_at: 2017-10-13
 :hp-tags: Exams, FM/2, Actuary
 :hp-alt-title: Passed FM
