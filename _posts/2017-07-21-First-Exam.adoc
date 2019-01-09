@@ -1,0 +1,25 @@
+= First Actuarial Exam! Passed Exam P today.
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+:published_at: 2017-07-21
+:hp-tags: Actuary, Exam, P/1
+:hp-alt-title: First Exam
+
+Super stoked to receive a preliminary pass today for my first actuarial exam, Exam P/1. It's not much, but it's a huge step for me moving forward. I've been studying for a month and I'm really glad it went well. Next up for me will be FM/2 in October. It'll be a grind, but I'm looking to challenge myself and push my limits and encourage myself to get started again with growing and learning. I'd really like to get these exams under my belt to help me in the internship application process.
+
+Here's why this small achievement is such a huge deal to me.
+
+When I started college at Berkeley, I was tended towards an engineering & law school path. The friends who knew me best tried to dissuade me--they always saw me as someone to pursue mathematics given how passionate I was about learning mathematics as well as mathematic pedagogy. The way I saw it was I wanted to become a patent attorney, where on a regular basis I'm constantly learning about new things (different devices and technologies) to understand the underlying claims in a patent. Then, I'd take what I learned and translate it into a "lecture" in the court room.
+
+This is directly analogous to the role of an actuary, from learning about the context of given data and using actuarial judgement to build models and present upon the resulting implications.
+
+As a freshman at Berkeley, I look up a web development job at the https://www.law.berkeley.edu/research/bclt/[Berkeley Center for Law & Technology] and worked with wonderful staff, legal researchers, law students, and professors. It was incredibly enlightening of an experience and opened my eyes to more critical discussions around technology--not just understanding what technology can do for us but understanding in what ways a policy framework has to be constructed to promote stability and nimble growth in disruptive tech sectors. It seemed plausible that I could find a genuine interest in Intellectual Property law. I explored the option further, but my gut feeling told me it never felt right.
+
+People say some things take time. I'm honestly so blessed to have support from my sisters and to be able to amend and continue to build up my relationship with my parents. Though it's a work in progress, it's evident that there is a big difference already.
+
+Meeting new people and building my own support system and network of close friends has turned my life around. I owe it to those who truly believed in me even in my worst and darkest moments who have helped me re-kindle my self-confidence.
+
+When I believed no career could accomodate my difficult situation and interest in problem-solving, it was thanks to https://reddit.com/r/actuary[r/actuary] that I was able to find a triving and fantastic community of helpful professionals and students out there helping each other in the career path. Simple research helped me plan out so many things in my life this past half-year. I'm looking up confidently this time around, excited to challenge myself and keep on pushing on to get better at everything I do. I've realigned with myself which is an incredibly critical moment in my life. Like I've mentioned, it's such a small feat that I've passed Exam P/1, but I'll take any victories I can, and I'll keep moving forward. 
+
+Next up, FM/2! Also, looking for study buddies if anyone's looking for someone to chat with, debate or share discussions with, or anything :)
+
