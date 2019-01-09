@@ -56,8 +56,8 @@
   },
   "navigation": [
     {
-      "label": "RESUME",
-      "url": "https://resume.dsury.com"
+      "label": "HOME",
+      "url": "https://dsury.com"
     },
     {
       "label": "RESUME",
@@ -68,8 +68,8 @@
       "url": "https://projects.dsury.com"
     },
     {
-      "label": "PROJECTS",
-      "url": "https://projects.dsury.com"
+      "label": "GITHUB",
+      "url": "https://github.com/dsuryakusuma"
     },
     {
       "label": "BLOG",
