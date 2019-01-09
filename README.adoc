@@ -1,6 +1,6 @@
 = dsury.com
 
-A http://dsury.com[blog and project showcase platform], following my pursuit of actuarial credentials and experience.
+Personal Website. My http://dsury.com[blog and project showcase platform], following my pursuit of actuarial credentials and experience.
 
 == What kind of projects will be featured here?
 I'll be highlighting projects and programming experiences relevant to an actuary or data analyst. These will be projects involving relevant and applicable stoichiometric processes and analyses.
