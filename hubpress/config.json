@@ -2,7 +2,8 @@
   "meta": {
     "username": "dsuryakusuma",
     "repositoryName": "dsuryakusuma.github.io",
-    "branch": "master"
+    "branch": "master",
+    "cname": "dsury.com"
   },
   "theme": {
     "name": "casper"
@@ -27,5 +28,31 @@
       null
     ],
     "_Ctor": {}
-  }
+  },
+  "site": {
+    "title": "",
+    "description": "",
+    "logo": "",
+    "cover": "",
+    "delay": "",
+    "postsPerPage": "",
+    "blogPath": "",
+    "googleAnalytics": "",
+    "disqus": ""
+  },
+  "socialnetwork": {
+    "email": "",
+    "github": "",
+    "twitter": "",
+    "facebook": "",
+    "googleplus": "",
+    "instagram": "",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "",
+    "stackoverflow": "",
+    "paypalme": "",
+    "opencollective": ""
+  },
+  "navigation": []
 }
