@@ -9,10 +9,10 @@
     "name": "casper"
   },
   "urls": {
-    "site": "https://dsuryakusuma.github.io",
+    "site": "http://dsury.com",
     "hubpress": "https://dsuryakusuma.github.io",
-    "theme": "//dsuryakusuma.github.io/themes/casper",
-    "images": "https://dsuryakusuma.github.io/images"
+    "theme": "//dsury.com/themes/casper",
+    "images": "http://dsury.com/images"
   },
   "initialisationConfigComponent": {
     "name": "initialise-configuration",
@@ -37,7 +37,7 @@
     "delay": "",
     "postsPerPage": "",
     "blogPath": "",
-    "googleAnalytics": "",
+    "googleAnalytics": "UA-52117159-1",
     "disqus": ""
   },
   "socialnetwork": {
