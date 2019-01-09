@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Daniel Suryakusuma]]></title><description><![CDATA[aspiring actuary // uc berkeley]]></description><link>http://dsury.com</link><image><url>https://raw.githubusercontent.com/dsuryakusuma/dsuryakusuma.github.io/gh-pages/images/IMG_7034.jpg</url><title>Daniel Suryakusuma</title><link>http://dsury.com</link></image><generator>RSS for Node</generator><lastBuildDate>Wed, 09 Jan 2019 03:33:03 GMT</lastBuildDate><atom:link href="http://dsury.com/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Resume: Daniel Suryakusuma]]></title><description><![CDATA[<div id="preamble">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Daniel Suryakusuma]]></title><description><![CDATA[aspiring actuary // uc berkeley]]></description><link>http://dsury.com</link><image><url>https://raw.githubusercontent.com/dsuryakusuma/dsuryakusuma.github.io/gh-pages/images/IMG_7034.jpg</url><title>Daniel Suryakusuma</title><link>http://dsury.com</link></image><generator>RSS for Node</generator><lastBuildDate>Wed, 09 Jan 2019 03:33:19 GMT</lastBuildDate><atom:link href="http://dsury.com/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Resume: Daniel Suryakusuma]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p><a href="https://resume.dsury.com/">Resume available in (.pdf) here.</a><br>
@@ -94,93 +94,7 @@ Undergraduate Research Opportunity Program Scholar | Jan 2017<br>
 Thomas Stern Calculus Excellence Award | May 2013<br>
 AP National Scholar Award | July 2013</p>
 </div>
-</div>]]></description><link>http://dsury.com/2018/12/16/Resume.html</link><guid isPermaLink="true">http://dsury.com/2018/12/16/Resume.html</guid><category><![CDATA[Actuary]]></category><category><![CDATA[Resume]]></category><category><![CDATA[Personal]]></category><dc:creator><![CDATA[Daniel Suryakusuma]]></dc:creator><pubDate>Sun, 16 Dec 2018 00:00:00 GMT</pubDate></item><item><title><![CDATA[Interest Rate Swaps]]></title><description><![CDATA[<div class="paragraph">
-<p>This is the first installment of additional study notes for exam FM/2, on interest rate swaps. The objective of this study note is to provide other students with a streamlined review of new material tested for the exam in the new syllabus starting July 2017.</p>
-</div>
-<div class="paragraph">
-<p>The full SOA article on interest rate swaps <a href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;ved=0ahUKEwjqyNiXw8bWAhXCxFQKHSOZCekQFggoMAA&amp;url=https%3A%2F%2Fwww.soa.org%2FFiles%2FEdu%2F2016%2Fedu-2016-fm-25-17-interest-rate-swaps.pdf&amp;usg=AFQjCNF8d9rogP9Da88d-TurdDTtzDPtAw">can be found here (.pdf download)</a>.</p>
-</div>
-<div class="paragraph">
-<p>The topic of interest rate swaps is tested with a weight of 0~10% of the total exam according to the syllabus &amp; learning objectives.</p>
-</div>
-<div class="paragraph">
-<p>A <strong>swap</strong> is an agreement to exchange cash flows at specific future times according to specified rules. This is equivalent to a series of forward contracts combined in one contract, or a portfolio of future contracts.</p>
-</div>
-<div class="paragraph">
-<p>A <strong>commodity swap</strong> consists of one party selling commodity (or cash equivalent) and the counterparty paying for the commodity (the buyer). The contract must specify: type, quality of commodity, and how to settle the contract. These are usually associated with energy-related products like oil, and have no governmental oversight. Usually, a "swap dealer" is involved between the two counterparties and earns the "bid-ask" spread as a commission.</p>
-</div>
-<div class="paragraph">
-<p>An <strong>interest rate swap</strong> is a means of converting (1) a series of future interest payments that <em>vary</em> with changes in interest rates (AKA floating payments) with (2) series of <em>fixed</em> level payments (i.e. swap rate), or vice versa.</p>
-</div>
-<div class="paragraph">
-<p>An <strong>asset swap</strong> is an interest rate swap used to convert cash flows from underlying security (i.e. bond) from <em>fixed coupon</em> to <em>floating coupon</em>.</p>
-</div>
-<div class="paragraph">
-<p>Swaps do not necessarily have to start right away, they can be deferred (i.e. settled now, and the first term&#8217;s interest rate is locked, then the floating payments depend on the annualized interest rates when the deferred time is past).</p>
-</div>
-<div class="paragraph">
-<p>The floating stream of payments are determined using a benchmark such as LIBOR, the London Interbank Offer Rate.</p>
-</div>
-<div class="paragraph">
-<p>Definitions:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p>r_t = spot interest rate for period of t years</p>
-</li>
-<li>
-<p>P_t = (1 + r_t)^(-t) = PV of payment of 1 at time t AKA price of a ZCB (zero coupon bond) that matures to value of 1 at end of t years</p>
-</li>
-<li>
-<p>f_[t1, t2] = forward interest rate</p>
-</li>
-<li>
-<p>Q_t = notional amount for settlement</p>
-</li>
-<li>
-<p>R = "swap rate"</p>
-</li>
-</ul>
-</div>
-<div class="paragraph">
-<p>Concept:</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p><strong>PV(Interest to be paid on variable interest rate loan) = PV(Interest to be paid on fixed interest rate loan)</strong></p>
-</li>
-</ul>
-</div>
-<div class="paragraph">
-<p>Equations:
-(subscripts are left out but variables correspond to definitions above)</p>
-</div>
-<div class="listingblock">
-<div class="content">
-<pre class="highlight"><code>R = Sum[Q*f*P]/Sum[Q*P]</code></pre>
-</div>
-</div>
-<div class="paragraph">
-<p>And if Q is constant,</p>
-</div>
-<div class="listingblock">
-<div class="content">
-<pre class="highlight"><code>R = (P_t0 - P_tn)/(Sum[P_ti])</code></pre>
-</div>
-</div>
-<div class="paragraph">
-<p>The forward rate ( f_[t1, t2] ) can be calculated as follows:</p>
-</div>
-<div class="listingblock">
-<div class="content">
-<pre class="highlight"><code>f = [ (1 + r_t2)^t2 / (1 + r_t1)^t1 ] -1</code></pre>
-</div>
-</div>
-<div class="paragraph">
-<p>For more information, see the <a href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;ved=0ahUKEwjqyNiXw8bWAhXCxFQKHSOZCekQFggoMAA&amp;url=https%3A%2F%2Fwww.soa.org%2FFiles%2FEdu%2F2016%2Fedu-2016-fm-25-17-interest-rate-swaps.pdf&amp;usg=AFQjCNF8d9rogP9Da88d-TurdDTtzDPtAw">full SOA document</a>. Specific examples of calculations are given and are invaluable for exam preparation.</p>
-</div>]]></description><link>http://dsury.com/2017/09/22/Interest-Rate-Swaps.html</link><guid isPermaLink="true">http://dsury.com/2017/09/22/Interest-Rate-Swaps.html</guid><category><![CDATA[FM/2]]></category><category><![CDATA[Actuary]]></category><dc:creator><![CDATA[Daniel Suryakusuma]]></dc:creator><pubDate>Fri, 22 Sep 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[A First Look: Health & Benefits]]></title><description><![CDATA[<div class="paragraph">
+</div>]]></description><link>http://dsury.com/2018/12/16/Resume.html</link><guid isPermaLink="true">http://dsury.com/2018/12/16/Resume.html</guid><category><![CDATA[Actuary]]></category><category><![CDATA[Resume]]></category><category><![CDATA[Personal]]></category><dc:creator><![CDATA[Daniel Suryakusuma]]></dc:creator><pubDate>Sun, 16 Dec 2018 00:00:00 GMT</pubDate></item><item><title><![CDATA[A First Look: Health & Benefits]]></title><description><![CDATA[<div class="paragraph">
 <p>Today I attended a CAL informational presentation from <a href="https://www.mercer.com/">Mercer</a> from their San Francisco practice, which has about 100 people in their Health &amp; Benefits team, and about 30 people on the Wealth management team. Presenters included Tim Oakes, Wendy Tan, and Alexa Garzelli on the Health &amp; Benefits side, and Deidre Schelin and Marc Corbeil on the Wealth side. As it stands, Mercer&#8217;s strength is staying on top of the H&amp;B current trends and policy to stay at the top as an analytical professional services group in the field.</p>
 </div>
 <div class="paragraph">
