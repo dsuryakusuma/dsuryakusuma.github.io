@@ -1,0 +1,57 @@
+= Interest Rate Swaps
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+:published_at: 2017-09-22
+:hp-tags: FM/2, Actuary
+:hp-alt-title: Interest Rate Swaps
+
+This is the first installment of additional study notes for exam FM/2, on interest rate swaps. The objective of this study note is to provide other students with a streamlined review of new material tested for the exam in the new syllabus starting July 2017.
+
+The full SOA article on interest rate swaps https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwjqyNiXw8bWAhXCxFQKHSOZCekQFggoMAA&url=https%3A%2F%2Fwww.soa.org%2FFiles%2FEdu%2F2016%2Fedu-2016-fm-25-17-interest-rate-swaps.pdf&usg=AFQjCNF8d9rogP9Da88d-TurdDTtzDPtAw[can be found here (.pdf download)].
+
+The topic of interest rate swaps is tested with a weight of 0~10% of the total exam according to the syllabus & learning objectives.
+
+A *swap* is an agreement to exchange cash flows at specific future times according to specified rules. This is equivalent to a series of forward contracts combined in one contract, or a portfolio of future contracts.
+
+A *commodity swap* consists of one party selling commodity (or cash equivalent) and the counterparty paying for the commodity (the buyer). The contract must specify: type, quality of commodity, and how to settle the contract. These are usually associated with energy-related products like oil, and have no governmental oversight. Usually, a "swap dealer" is involved between the two counterparties and earns the "bid-ask" spread as a commission. 
+
+An *interest rate swap* is a means of converting (1) a series of future interest payments that _vary_ with changes in interest rates (AKA floating payments) with (2) series of _fixed_ level payments (i.e. swap rate), or vice versa.
+
+An *asset swap* is an interest rate swap used to convert cash flows from underlying security (i.e. bond) from _fixed coupon_ to _floating coupon_.
+
+Swaps do not necessarily have to start right away, they can be deferred (i.e. settled now, and the first term's interest rate is locked, then the floating payments depend on the annualized interest rates when the deferred time is past).
+
+The floating stream of payments are determined using a benchmark such as LIBOR, the London Interbank Offer Rate.
+
+Definitions:
+
+- r_t = spot interest rate for period of t years
+- P_t = (1 + r_t)^(-t) = PV of payment of 1 at time t AKA price of a ZCB (zero coupon bond) that matures to value of 1 at end of t years
+- f_[t1, t2] = forward interest rate
+- Q_t = notional amount for settlement
+- R = "swap rate"
+
+Concept:
+
+- *PV(Interest to be paid on variable interest rate loan) = PV(Interest to be paid on fixed interest rate loan)*
+
+Equations:
+(subscripts are left out but variables correspond to definitions above)
+
+```
+R = Sum[Q*f*P]/Sum[Q*P]
+```
+
+And if Q is constant, 
+```
+R = (P_t0 - P_tn)/(Sum[P_ti])
+```
+
+The forward rate ( f_[t1, t2] ) can be calculated as follows:
+
+```
+f = [ (1 + r_t2)^t2 / (1 + r_t1)^t1 ] -1
+```
+
+For more information, see the https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwjqyNiXw8bWAhXCxFQKHSOZCekQFggoMAA&url=https%3A%2F%2Fwww.soa.org%2FFiles%2FEdu%2F2016%2Fedu-2016-fm-25-17-interest-rate-swaps.pdf&usg=AFQjCNF8d9rogP9Da88d-TurdDTtzDPtAw[full SOA document]. Specific examples of calculations are given and are invaluable for exam preparation.
+
