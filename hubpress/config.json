@@ -54,5 +54,14 @@
     "paypalme": "",
     "opencollective": ""
   },
-  "navigation": []
+  "navigation": [
+    {
+      "label": "test1 ",
+      "url": "http://google.com"
+    },
+    {
+      "label": "test2",
+      "url": "http://yahoo.com"
+    }
+  ]
 }
