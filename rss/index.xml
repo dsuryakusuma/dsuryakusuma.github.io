@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Daniel Suryakusuma]]></title><description><![CDATA[aspiring actuary // uc berkeley]]></description><link>http://dsury.com</link><image><url>https://raw.githubusercontent.com/dsuryakusuma/dsuryakusuma.github.io/gh-pages/images/IMG_7034.jpg</url><title>Daniel Suryakusuma</title><link>http://dsury.com</link></image><generator>RSS for Node</generator><lastBuildDate>Wed, 09 Jan 2019 03:33:26 GMT</lastBuildDate><atom:link href="http://dsury.com/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Resume: Daniel Suryakusuma]]></title><description><![CDATA[<div id="preamble">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Daniel Suryakusuma]]></title><description><![CDATA[aspiring actuary // uc berkeley]]></description><link>http://dsury.com</link><image><url>https://raw.githubusercontent.com/dsuryakusuma/dsuryakusuma.github.io/gh-pages/images/IMG_7034.jpg</url><title>Daniel Suryakusuma</title><link>http://dsury.com</link></image><generator>RSS for Node</generator><lastBuildDate>Wed, 09 Jan 2019 03:33:45 GMT</lastBuildDate><atom:link href="http://dsury.com/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Resume: Daniel Suryakusuma]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p><a href="https://resume.dsury.com/">Resume available in (.pdf) here.</a><br>
@@ -94,7 +94,127 @@ Undergraduate Research Opportunity Program Scholar | Jan 2017<br>
 Thomas Stern Calculus Excellence Award | May 2013<br>
 AP National Scholar Award | July 2013</p>
 </div>
-</div>]]></description><link>http://dsury.com/2018/12/16/Resume.html</link><guid isPermaLink="true">http://dsury.com/2018/12/16/Resume.html</guid><category><![CDATA[Actuary]]></category><category><![CDATA[Resume]]></category><category><![CDATA[Personal]]></category><dc:creator><![CDATA[Daniel Suryakusuma]]></dc:creator><pubDate>Sun, 16 Dec 2018 00:00:00 GMT</pubDate></item><item><title><![CDATA[Interest Rate Swaps]]></title><description><![CDATA[<div class="paragraph">
+</div>]]></description><link>http://dsury.com/2018/12/16/Resume.html</link><guid isPermaLink="true">http://dsury.com/2018/12/16/Resume.html</guid><category><![CDATA[Actuary]]></category><category><![CDATA[Resume]]></category><category><![CDATA[Personal]]></category><dc:creator><![CDATA[Daniel Suryakusuma]]></dc:creator><pubDate>Sun, 16 Dec 2018 00:00:00 GMT</pubDate></item><item><title><![CDATA[Determinants of Interest Rates]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>This second installment of study notes for exam FM/2 covers determinants of interest rates. The objective like the first installment covering <a href="http://daniel.financial/2017/09/22/Interest-Rate-Swaps.html">interest rate swaps</a> is to provide students studying for the FM exam with the key points and take-aways from the topic at hand. Determinants of Interest Rates is tested on the new syllabus for exam FM/2 with a weight of 0~10% according to the learning objectives syllabus.</p>
+</div>
+<div class="paragraph">
+<p>The full document from the SOA can be found here <a href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwjh3Pbyx8bWAhWmhFQKHSRwBr0QFggoMAA&amp;url=https%3A%2F%2Fwww.soa.org%2FFiles%2FEdu%2F2017%2Ffm-determinants-interest-rates.pdf&amp;usg=AFQjCNFVcxnZC-IKvSdTHRQ8tIc_qnOcng">.pdf download</a>.</p>
+</div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_federal_funds_rate">Federal funds rate</h3>
+<div class="paragraph">
+<p>Interest rate for one bank to borrow from another bank&#8217;s reserve (to meet minimum reserve requirements). Adjusted to approximately match "federal funds target rate."</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_discount_rate">Discount rate</h3>
+<div class="paragraph">
+<p>Rate that banks can borrow at, <strong>directly</strong> from federal reserve bank.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_libor_london_interbank_offered_rate">LIBOR (London Interbank Offered Rate)</h3>
+<div class="paragraph">
+<p>International interest rates for short-tern loans.</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_federal_reserve_bank_us_s_central_banks">Federal Reserve Bank (US&#8217;s central banks)</h3>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Board of Governors</p>
+</li>
+<li>
+<p>12 regional reserve banks</p>
+</li>
+<li>
+<p>FOMC (Federal Open Market Committee) sets federal funds target rate to stabilize: employment rate, stable prices, moderate long-term interest rates</p>
+</li>
+</ol>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_bond_concepts">Bond Concepts</h3>
+<div class="ulist">
+<ul>
+<li>
+<p><strong>call provision:</strong> option for issuer to pay (above par) before maturity date</p>
+</li>
+<li>
+<p><strong>put provision:</strong> option for holder to sell (below par) to issuer before maturity.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>These give option to re-negotiate a new bond at better interest rate, following liquidity preference theory and opportunity cost theory.</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><strong>revenue bonds:</strong> example - contingent on tolls for drivers on bridge, charges to homeowners for water services, etc</p>
+</li>
+<li>
+<p><strong>general obligation bonds:</strong> backed by general taxing authority or state/local government</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_interest_concepts">Interest Concepts</h3>
+<div class="ulist">
+<ul>
+<li>
+<p><strong>yield</strong> with risk of default should be <em>higher</em> to compensate for this risk</p>
+</li>
+<li>
+<p><strong>"prime rate"</strong> - rate charged to bank&#8217;s best and most creditworthy customers. only a few entities receive this rate, but it is used as a benchmark for comparison.</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_treasury_bills_t_bills">Treasury Bills (T-Bills):</h3>
+<div class="ulist">
+<ul>
+<li>
+<p>1 year or less term</p>
+</li>
+<li>
+<p>no interest</p>
+</li>
+<li>
+<p>sold at discount</p>
+</li>
+<li>
+<p>quoted with simple discount &amp; actual/360</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_treasury_notes_bonds_t_bond">Treasury Notes/Bonds (T-Bond):</h3>
+<div class="ulist">
+<ul>
+<li>
+<p>2~30 years term</p>
+</li>
+<li>
+<p>semi-annual interest coupons</p>
+</li>
+<li>
+<p>sold at or near par</p>
+</li>
+<li>
+<p>quoted with semi-annual compounding</p>
+</li>
+</ul>
+</div>
+</div>]]></description><link>http://dsury.com/2017/09/24/Determinants-of-Interest-Rates.html</link><guid isPermaLink="true">http://dsury.com/2017/09/24/Determinants-of-Interest-Rates.html</guid><category><![CDATA[FM/2]]></category><category><![CDATA[Actuary]]></category><dc:creator><![CDATA[Daniel Suryakusuma]]></dc:creator><pubDate>Sun, 24 Sep 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Interest Rate Swaps]]></title><description><![CDATA[<div class="paragraph">
 <p>This is the first installment of additional study notes for exam FM/2, on interest rate swaps. The objective of this study note is to provide other students with a streamlined review of new material tested for the exam in the new syllabus starting July 2017.</p>
 </div>
 <div class="paragraph">
