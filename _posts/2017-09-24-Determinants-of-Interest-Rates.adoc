@@ -1,0 +1,57 @@
+= Determinants of Interest Rates
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+:published_at: 2017-09-24
+:hp-tags: FM/2, Actuary
+:hp-alt-title: Determinants of Interest Rates
+
+This second installment of study notes for exam FM/2 covers determinants of interest rates. The objective like the first installment covering http://daniel.financial/2017/09/22/Interest-Rate-Swaps.html[interest rate swaps] is to provide students studying for the FM exam with the key points and take-aways from the topic at hand. Determinants of Interest Rates is tested on the new syllabus for exam FM/2 with a weight of 0~10% according to the learning objectives syllabus.
+
+The full document from the SOA can be found here https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjh3Pbyx8bWAhWmhFQKHSRwBr0QFggoMAA&url=https%3A%2F%2Fwww.soa.org%2FFiles%2FEdu%2F2017%2Ffm-determinants-interest-rates.pdf&usg=AFQjCNFVcxnZC-IKvSdTHRQ8tIc_qnOcng[.pdf download].
+
+=== Federal funds rate
+
+Interest rate for one bank to borrow from another bank's reserve (to meet minimum reserve requirements). Adjusted to approximately match "federal funds target rate."
+
+=== Discount rate
+
+Rate that banks can borrow at, *directly* from federal reserve bank.
+
+=== LIBOR (London Interbank Offered Rate)
+
+International interest rates for short-tern loans.
+
+=== Federal Reserve Bank (US's central banks)
+
+1. Board of Governors
+2. 12 regional reserve banks
+3. FOMC (Federal Open Market Committee) sets federal funds target rate to stabilize: employment rate, stable prices, moderate long-term interest rates
+
+=== Bond Concepts
+
+* *call provision:* option for issuer to pay (above par) before maturity date
+* *put provision:* option for holder to sell (below par) to issuer before maturity.
+
+These give option to re-negotiate a new bond at better interest rate, following liquidity preference theory and opportunity cost theory.
+
+* *revenue bonds:* example - contingent on tolls for drivers on bridge, charges to homeowners for water services, etc
+* *general obligation bonds:* backed by general taxing authority or state/local government
+
+=== Interest Concepts
+
+* *yield* with risk of default should be _higher_ to compensate for this risk
+* *"prime rate"* - rate charged to bank's best and most creditworthy customers. only a few entities receive this rate, but it is used as a benchmark for comparison.
+
+=== Treasury Bills (T-Bills):
+
+* 1 year or less term
+* no interest
+* sold at discount
+* quoted with simple discount & actual/360
+
+=== Treasury Notes/Bonds (T-Bond):
+
+* 2~30 years term
+* semi-annual interest coupons
+* sold at or near par
+* quoted with semi-annual compounding
