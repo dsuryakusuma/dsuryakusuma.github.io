@@ -1,0 +1,65 @@
+= Resume: Daniel Suryakusuma
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+:published_at: 2019-01-06
+:hp-tags: Actuary, Resume, Personal
+:hp-alt-title: Resume
+
+[%hardbreaks]
+https://resume.dsury.com/[Resume available in (.pdf) here.]
+Contact: dsuryakusuma(at)berkeley.edu | 909.569.5177 
+{nbsp}
+
+
+=== Actuarial Exams
+[%hardbreaks]
+Exam P/1: Passed first sitting | July 2017 +
+Exam FM/2: Passed first Sitting | Oct 2017 +
+Exam MFE/3: Sitting | Nov 2018
+
+=== Education
+[%hardbreaks]
+University of California, Berkeley | Berkeley, CA
+B.A. Applied Mathematics | Dec 2019 (Expected)
+
+University of California, Berkeley - Extension | Berkeley, CA
+C.P. Certificate Program in Paralegal Studies | Jan 2017
+
+=== Skills
+[%hardbreaks]
+Analytical: MATLAB | R | VBA | SQL | SAS | Excel
+{nbsp}{nbsp}^ The Infinite Actuary - Technical Skills Course
+Programming: Python | Java | HTML| CSS | Javascript
+Computer: Salesforce | Excel | Access | SQL | Adobe InDesign/Photoshop
+
+=== Professional Experience
+[%hardbreaks]
+Berkeley Center for Law & Technology | UC Berkeley School of Law
+Web Development Lead, Administrative Assistant | Aug 2013 - May 2015
+
+* Synthesized over 500 datasets into various structured databases of client accounts, implementing Salesforce programs and Excel spreadsheets for optimized parsing efficiency
+* Professionally managed legal projects funded by local law firms, highlighting groundbreaking technology law cases, and connecting firms and patent boutiques with law school students and intellectual property scholars
+* Presented data infographics and posters at symposiums and conferences
+
+[%hardbreaks]
+Berkeley Technology Review | Berkeley, CA
+Contributing Editor, Web Developer | Sep 2014 - May 2015
+
+* Created and published articles on privacy, copyright law, and disruptive technologies
+* Merged elements of different web application platforms into intuitive and reactive user interface, using Drupal, Node.js, and WordPress
+* Cultivated and closely managed team of writers through rigorous editorial process
+
+[%hardbreaks]
+Relay for Life, American Cancer Society | Walnut, CA
+Logistics Committee Chair | Sep 2011 - May 2013
+
+* Individually conducted business meetings with corporate leads and intercity officials to close sponsorship deals and authorized use of public space
+* Managed expenditures and donations to meet required event specifications
+
+=== Awards / Certification
+[%hardbreaks]
+Certified Paralegal | Jan 2017
+Undergraduate Research Opportunity Program Scholar | Jan 2017
+Thomas Stern Calculus Excellence Award | May 2013
+AP National Scholar Award | July 2013
+
