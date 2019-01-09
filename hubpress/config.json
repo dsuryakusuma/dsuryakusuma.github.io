@@ -31,8 +31,8 @@
   },
   "site": {
     "title": "Daniel Suryakusuma",
-    "description": "aspiring actuary - uc berkeley applied math student",
-    "logo": "",
+    "description": "aspiring actuary // uc berkeley",
+    "logo": "https://raw.githubusercontent.com/dsuryakusuma/dsuryakusuma.github.io/gh-pages/images/uc.png",
     "cover": "https://raw.githubusercontent.com/dsuryakusuma/dsuryakusuma.github.io/gh-pages/images/IMG_7034.jpg",
     "delay": "",
     "postsPerPage": "",
