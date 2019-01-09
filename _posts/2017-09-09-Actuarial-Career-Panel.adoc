@@ -1,0 +1,45 @@
+= Actuarial Career Panel - Fall 2017
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+:published_at: 2017-09-09
+:hp-tags: CAL, Career_Panel, Actuary,
+:hp-alt-title: Actuarial Career Panel
+
+Thursday evening was a memorable one for me. I had the privilege of hearing from actuarial analysts from different companies around the bay area in different fields speak bits about their careers, their day-to-day, and tips and advice as to how to move forward in the actuarial career path.
+
+Moderated by EVP Jackson Meyers, CAL held a discussion with company representatives from https://www.mercer.com/[Mercer], https://www.willistowerswatson.com/[Willis Towers Watson], http://www.oliverwyman.com/index.html[Oliver Wyman], http://us.milliman.com/[Milliman], http://www.aon.com/default.jsp[Aon], http://csaa-insurance.aaa.com/content/aaa-ie/b2c/en/homepage.html/[CSAA], http://www.rael-letson.com/[Rael & Letson], https://www.ciginsurance.com/[Capital Insurance Group], http://www.nicolayconsulting.com/[Nicolay Consulting], and 
+https://www.deltadental.com/Public/index.jsp[Delta Dental]. Many of the speakers were Cal graduates and were able to answer specific questions and provide insight specific to the process of pursuing an actuarial career out of Cal. 
+
+At the panel discussion, I directed the following questions to the actuarial analysts:
+
+1. Actuarial science is one of the highest-rated careers for many factors and reasons, mainly cited for it's low-stress and higher happiness levels. In your personal cases, do you agree with that? What were situations like where there were more stressful moments on the job or projects?
+
+2. For everyone who went to Cal, which were the most useful classes in terms of preparation for entry-level projects, whether technical or nontechnical, and VEE accredited or not?
+
+The event introduced me to a good baseline of questions, including:
+
+* What sorts of experiences as a student do you think were most valuable?
+** what things did you wish you did before entering?
+* What excites you about this position?
+** Is that the same as what convinced you to join?
+** Is there a project you've done that sticks out in your mind?
+* What project experience was the most valuable for you and why?
+* Could you talk to me a bit about the positions that are available, and what I might do in one of those roles?
+* How much would I be interacting with you if I were an intern?
+* How do interns get placed on projects?
+** Do interns ever work together?
+* What experiences bestprepared you for your job?
+* What are the core components of your job?
+* Could you describe a typical day in the life of Company X?
+* What's the most challenging part of your job?
+* What kind of problems do you face on a day-to-day basis?
+* What's it like to work for this particular company?
+* What's a typical career path in this industry?
+* What're some qualities and skills that you value in an intern? Are there any concrete actions you'd recommend I take to develop those right away?
+
+Extremely blessed to have this opportunity to hear from, speak with, and get to know a little more from these actuaries from different fields. I'm excited to see what's ahead in store at CAL. I know this organization has a lot going for it. On a personal note, it's been an incredibly busy week for me, but it's been keeping me grounded continuing forward. I lost an item that's incredibly valuable to me the night of the Actuarial Career Panel, and it did take a toll on my mood for the rest of the week and weekend. However, I'm taking things into a more constructive light, focusing more on what I can improve--namely, appreciating what I do have and the people around me that make everything worth it for me. Again, huge thanks to everyone who's there with me supporting me through all times.
+
+// tim oakes - mercer; will li - willis towers watson; jillian hagan - olliver wyman; tim wei - milliman (5 places in 7 years, big on education & tutoring when he was at cal, emailed); tim wang - aon (metro); eric xu - csaa; kylin poropat - rael & letson (short hair philipino-looking); jessica hao - delta dental (young looking)
+//
+
+
