@@ -1,7 +1,7 @@
 = Resume: Daniel Suryakusuma
 // See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
 // :hp-image: /covers/cover.png
-:published_at: 2019-01-06
+:published_at: 2018-12-16
 :hp-tags: Actuary, Resume, Personal
 :hp-alt-title: Resume
 
@@ -15,7 +15,7 @@ Contact: dsuryakusuma(at)berkeley.edu | 909.569.5177
 [%hardbreaks]
 Exam P/1: Passed first sitting | July 2017 +
 Exam FM/2: Passed first Sitting | Oct 2017 +
-Exam MFE/3: Sitting | Nov 2018
+Exam IFM/3: Sitting | Nov 2018
 
 === Education
 [%hardbreaks]
@@ -27,7 +27,7 @@ C.P. Certificate Program in Paralegal Studies | Jan 2017
 
 === Skills
 [%hardbreaks]
-Analytical: MATLAB | R | VBA | SQL | SAS | Excel
+Analytical: Excel | MATLAB | R | VBA | SQL | SAS
 {nbsp}{nbsp}^ The Infinite Actuary - Technical Skills Course
 Programming: Python | Java | HTML| CSS | Javascript
 Computer: Salesforce | Excel | Access | SQL | Adobe InDesign/Photoshop
