@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Daniel Suryakusuma]]></title><description><![CDATA[aspiring actuary // uc berkeley]]></description><link>http://dsury.com</link><image><url>https://raw.githubusercontent.com/dsuryakusuma/dsuryakusuma.github.io/gh-pages/images/IMG_7034.jpg</url><title>Daniel Suryakusuma</title><link>http://dsury.com</link></image><generator>RSS for Node</generator><lastBuildDate>Wed, 09 Jan 2019 03:54:30 GMT</lastBuildDate><atom:link href="http://dsury.com/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Resume: Daniel Suryakusuma]]></title><description><![CDATA[<div id="preamble">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Daniel Suryakusuma]]></title><description><![CDATA[aspiring actuary // uc berkeley]]></description><link>http://dsury.com</link><image><url>https://raw.githubusercontent.com/dsuryakusuma/dsuryakusuma.github.io/gh-pages/images/IMG_7034.jpg</url><title>Daniel Suryakusuma</title><link>http://dsury.com</link></image><generator>RSS for Node</generator><lastBuildDate>Wed, 09 Jan 2019 04:15:16 GMT</lastBuildDate><atom:link href="http://dsury.com/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Resume: Daniel Suryakusuma]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p><a href="https://resume.dsury.com/">Resume available in (.pdf) here.</a><br>
@@ -94,7 +94,24 @@ Undergraduate Research Opportunity Program Scholar | Jan 2017<br>
 Thomas Stern Calculus Excellence Award | May 2013<br>
 AP National Scholar Award | July 2013</p>
 </div>
-</div>]]></description><link>http://dsury.com/2018/12/16/Resume.html</link><guid isPermaLink="true">http://dsury.com/2018/12/16/Resume.html</guid><category><![CDATA[Actuary]]></category><category><![CDATA[Resume]]></category><category><![CDATA[Personal]]></category><dc:creator><![CDATA[Daniel Suryakusuma]]></dc:creator><pubDate>Sun, 16 Dec 2018 00:00:00 GMT</pubDate></item><item><title><![CDATA[Determinants of Interest Rates]]></title><description><![CDATA[<div id="preamble">
+</div>]]></description><link>http://dsury.com/2018/12/16/Resume.html</link><guid isPermaLink="true">http://dsury.com/2018/12/16/Resume.html</guid><category><![CDATA[Actuary]]></category><category><![CDATA[Resume]]></category><category><![CDATA[Personal]]></category><dc:creator><![CDATA[Daniel Suryakusuma]]></dc:creator><pubDate>Sun, 16 Dec 2018 00:00:00 GMT</pubDate></item><item><title><![CDATA[Passed FM]]></title><description><![CDATA[<div class="paragraph">
+<p>Just passed FM! I’ve been so busy lately with a great mix of things, but it’s a huge relief to pass my second exam.</p>
+</div>
+<div class="paragraph">
+<p>I posted a thank you note to <a href="http://www.reddit.com/r/actuary/">Reddit</a> to show my gratitude towards the community that helped helped me get started. <a href="https://www.reddit.com/r/actuary/comments/763g62/the_ractuary_effect/">For detailed information, find emotional post here</a>.</p>
+</div>
+<div class="paragraph">
+<p>At this point I know I&#8217;ll work to make this website informational and educational to help fellow aspiring actuaries grow.</p>
+</div>
+<div class="paragraph">
+<p>I’ll revisit my notes on P/1 and FM/2 to make study notes to supplement M Finan’s texts (which are fantastic resources to learn the material).</p>
+</div>
+<div class="paragraph">
+<p>The first two preliminary exams P and FM can easily and effectively be studied for completely free of cost, using M Finan’s texts and other free open source guides just as long as people keep to the test syllabus and learning objectives.</p>
+</div>
+<div class="paragraph">
+<p>To people who are contemplating an actuarial route, I do suggest that they dive into the test material and possess the willingness to commit to test preparation.</p>
+</div>]]></description><link>http://dsury.com/2017/10/13/Passed-FM.html</link><guid isPermaLink="true">http://dsury.com/2017/10/13/Passed-FM.html</guid><category><![CDATA[Exams]]></category><category><![CDATA[FM/2]]></category><category><![CDATA[Actuary]]></category><dc:creator><![CDATA[Daniel Suryakusuma]]></dc:creator><pubDate>Fri, 13 Oct 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Determinants of Interest Rates]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>This second installment of study notes for exam FM/2 covers determinants of interest rates. The objective like the first installment covering <a href="http://daniel.financial/2017/09/22/Interest-Rate-Swaps.html">interest rate swaps</a> is to provide students studying for the FM exam with the key points and take-aways from the topic at hand. Determinants of Interest Rates is tested on the new syllabus for exam FM/2 with a weight of 0~10% according to the learning objectives syllabus.</p>
